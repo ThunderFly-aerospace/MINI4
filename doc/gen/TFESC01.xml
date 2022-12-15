@@ -1,0 +1,2303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/TFESC01.kicad_sch</source>
+    <date>Thu Dec 15 23:45:17 2022</date>
+    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TFESC01.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>470n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058910116</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>470n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890ff5e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>470n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890e3fb</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea795a</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea7836</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005894c8bf</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005894ceb8</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005894d060</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005894de62</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005894e744</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005894e9d8</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005896a786</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058969f7e</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>4n7</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058977874</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>4n7</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005898ee5b</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>4n7</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005898ef30</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589a55f2</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589a56c6</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589a4e59</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589a6a09</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589a5533</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b47ddf</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>220nF</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589be34b</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>2u2</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589be681</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589bfa7b</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b4bf69</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b4d21b</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05c66</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b597d5</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>10pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea7b69</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>10pF</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea85fd</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05c52</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea940c</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea93f8</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05caa</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05c96</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea9686</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea9672</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05c80</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea989a</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea9894</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea9880</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea986c</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea98ea</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea98e4</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea98d0</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea98bc</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa90c</tstamps>
+    </comp>
+    <comp ref="C49">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa906</tstamps>
+    </comp>
+    <comp ref="C50">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa8f2</tstamps>
+    </comp>
+    <comp ref="C51">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa8de</tstamps>
+    </comp>
+    <comp ref="C52">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa95c</tstamps>
+    </comp>
+    <comp ref="C53">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa956</tstamps>
+    </comp>
+    <comp ref="C54">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa942</tstamps>
+    </comp>
+    <comp ref="C55">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa92e</tstamps>
+    </comp>
+    <comp ref="C56">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa9ac</tstamps>
+    </comp>
+    <comp ref="C57">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa9a6</tstamps>
+    </comp>
+    <comp ref="C58">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa992</tstamps>
+    </comp>
+    <comp ref="C59">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaa97e</tstamps>
+    </comp>
+    <comp ref="C60">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05c7a</tstamps>
+    </comp>
+    <comp ref="C61">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05e5c</tstamps>
+    </comp>
+    <comp ref="C62">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05e84</tstamps>
+    </comp>
+    <comp ref="C63">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05e56</tstamps>
+    </comp>
+    <comp ref="C64">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eab007</tstamps>
+    </comp>
+    <comp ref="C65">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eab001</tstamps>
+    </comp>
+    <comp ref="C66">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaafed</tstamps>
+    </comp>
+    <comp ref="C67">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eaafd9</tstamps>
+    </comp>
+    <comp ref="C68">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ebb20b</tstamps>
+    </comp>
+    <comp ref="C69">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ebb205</tstamps>
+    </comp>
+    <comp ref="C70">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ebb1f1</tstamps>
+    </comp>
+    <comp ref="C71">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ebb1dd</tstamps>
+    </comp>
+    <comp ref="C72">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ebbf2a</tstamps>
+    </comp>
+    <comp ref="C73">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ebbf24</tstamps>
+    </comp>
+    <comp ref="C74">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b05e7e</tstamps>
+    </comp>
+    <comp ref="C75">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b0fa74</tstamps>
+    </comp>
+    <comp ref="C76">
+      <value>100n</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eda960</tstamps>
+    </comp>
+    <comp ref="C77">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059421bea</tstamps>
+    </comp>
+    <comp ref="C78">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059421931</tstamps>
+    </comp>
+    <comp ref="C79">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b0fa60</tstamps>
+    </comp>
+    <comp ref="C80">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b0fab0</tstamps>
+    </comp>
+    <comp ref="C81">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b0fa9c</tstamps>
+    </comp>
+    <comp ref="C82">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b0fa88</tstamps>
+    </comp>
+    <comp ref="C83">
+      <value>C</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b23bc3</tstamps>
+    </comp>
+    <comp ref="C84">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b23bd7</tstamps>
+    </comp>
+    <comp ref="C85">
+      <value>10u</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b23beb</tstamps>
+    </comp>
+    <comp ref="C86">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b64b69</tstamps>
+    </comp>
+    <comp ref="C87">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b77e5b</tstamps>
+    </comp>
+    <comp ref="C88">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b75a6a</tstamps>
+    </comp>
+    <comp ref="C89">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b774cc</tstamps>
+    </comp>
+    <comp ref="C90">
+      <value>2u2</value>
+      <footprint>Capacitors_SMD:C_0603</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b7657d</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>PMEG6020AELR</value>
+      <footprint>Diodes_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589bfe35</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058b594d3</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058b59f29</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>Wurth Electronics 74438335220</value>
+      <footprint>mojaKniznica:WE-MAPI</footprint>
+      <libsource lib="MINI VESC-rescue" part="INDUCTOR-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b5de22</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_1</value>
+      <footprint>kicad_subory:prekov</footprint>
+      <libsource lib="MINI VESC-rescue" part="CONN_1-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589669d4</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_1</value>
+      <footprint>kicad_subory:prekov</footprint>
+      <libsource lib="MINI VESC-rescue" part="CONN_1-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058966a83</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_1</value>
+      <footprint>kicad_subory:prekov</footprint>
+      <libsource lib="MINI VESC-rescue" part="CONN_1-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058966fb5</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_1</value>
+      <footprint>kicad_subory:prekov</footprint>
+      <libsource lib="MINI VESC-rescue" part="CONN_1-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058963115</tstamps>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_1</value>
+      <footprint>kicad_subory:prekov</footprint>
+      <libsource lib="MINI VESC-rescue" part="CONN_1-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058963808</tstamps>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_1</value>
+      <footprint>kicad_subory:prekov</footprint>
+      <libsource lib="MINI VESC-rescue" part="CONN_1-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058963b6c</tstamps>
+    </comp>
+    <comp ref="P9">
+      <value>Conn_01x06</value>
+      <footprint>kicad_subory:JST_ZH_1.5_6-Pin</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058b478ce</tstamps>
+    </comp>
+    <comp ref="P10">
+      <value>Conn_01x06</value>
+      <footprint>kicad_subory:JST_ZH_1.5_6-Pin</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058b491ef</tstamps>
+    </comp>
+    <comp ref="P11">
+      <value>Conn_01x06</value>
+      <footprint>kicad_subory:JST_ZH_1.5_6-Pin</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ead1f3</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>NTMFS5C604NLT1G</value>
+      <footprint>kicad_subory:DFN5</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589100ed</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>NTMFS5C604NLT1G</value>
+      <footprint>kicad_subory:DFN5</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589100f3</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>NTMFS5C604NLT1G</value>
+      <footprint>kicad_subory:DFN5</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890ff35</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>NTMFS5C604NLT1G</value>
+      <footprint>kicad_subory:DFN5</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890ff3b</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>NTMFS5C604NLT1G</value>
+      <footprint>kicad_subory:DFN5</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890d596</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>NTMFS5C604NLT1G</value>
+      <footprint>kicad_subory:DFN5</footprint>
+      <libsource lib="Device" part="Q_NMOS_GSD" description="N-MOSFET transistor, gate/source/drain"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890ddde</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R0005</value>
+      <footprint>mojaKniznica:2512Rv2</footprint>
+      <libsource lib="MINI VESC-rescue" part="RSENS-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058910139</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R0005</value>
+      <footprint>mojaKniznica:2512Rv2</footprint>
+      <libsource lib="MINI VESC-rescue" part="RSENS-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890ff81</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R0005</value>
+      <footprint>mojaKniznica:2512Rv2</footprint>
+      <libsource lib="MINI VESC-rescue" part="RSENS-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890e02b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>39k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058998a6f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>2k2</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058998a75</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>3R9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005897af37</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>3R9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005897c4a5</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>3R9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005897fe58</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>3R9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058980012</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>3R9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589878e1</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>3R9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058987e9b</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>39k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058994a65</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2k2</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058994d9c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>39k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589981ef</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>2k2</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589981f5</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>25k5</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589982a0</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>2k2</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589982a6</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>100R</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005898d2a2</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>100R</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005898ee61</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>100R</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005898ef36</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589c745b</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>54k9</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589c6292</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>22R</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058aa84dd</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>22R</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058aa860f</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>220R</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058b6d470</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>220R</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058b6d2d4</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>100R</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058eda6b7</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059418d53</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10kNTC</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059418f1e</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>100k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005941a1de</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0603</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059426ada</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM5113SDE</value>
+      <footprint>kicad_subory:WSON10__</footprint>
+      <libsource lib="MINI VESC-rescue" part="LM5001-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b9e9bc</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM5113SDE</value>
+      <footprint>kicad_subory:WSON10__</footprint>
+      <libsource lib="MINI VESC-rescue" part="LM5001-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059ba003f</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LM5113SDE</value>
+      <footprint>kicad_subory:WSON10__</footprint>
+      <libsource lib="MINI VESC-rescue" part="LM5001-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059ba1d90</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>AD8417</value>
+      <footprint>kicad_subory:MSOP</footprint>
+      <libsource lib="MINI VESC-rescue" part="AD8418-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005891012a</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>AD8417</value>
+      <footprint>kicad_subory:MSOP</footprint>
+      <libsource lib="MINI VESC-rescue" part="AD8418-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890ff72</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>AD8417</value>
+      <footprint>kicad_subory:MSOP</footprint>
+      <libsource lib="MINI VESC-rescue" part="AD8418-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005890ea34</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>STM32F405RGT6</value>
+      <footprint>crf1:lqfp64_pad_mod</footprint>
+      <libsource lib="MINI VESC-rescue" part="STM32F40X_LQFP64-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058912bd6</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>LMR16006YDDCT</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-6</footprint>
+      <libsource lib="MINI VESC-rescue" part="BD9G101G-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000589b9eb0</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>MCP1700</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="MINI VESC-rescue" part="MCP1700-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b7a38c</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>MCP1700</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="MINI VESC-rescue" part="MCP1700-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000059b7a56e</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>ABM3B-8.000MHZ</value>
+      <footprint>mojaKniznica:5x3.2KRISTALL</footprint>
+      <libsource lib="MINI VESC-rescue" part="CRYSTAL_SMD-RESCUE-MINI_VESC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFESC01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058ea69c5</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GSD">
+      <description>N-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GSD</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="AD8418-RESCUE-MINI_VESC">
+      <footprints>
+        <fp>SOIC*Pitch1.27mm*</fp>
+        <fp>MSOP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD8418-RESCUE-MINI_VESC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN-" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="REF2" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="OUT" type="output"/>
+        <pin num="6" name="VS" type="power_in"/>
+        <pin num="7" name="REF1" type="input"/>
+        <pin num="8" name="IN+" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="BD9G101G-RESCUE-MINI_VESC">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BD9G101G-RESCUE-MINI_VESC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BST" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VCC" type="input"/>
+        <pin num="6" name="Lx" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="CONN_1-RESCUE-MINI_VESC">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_1-RESCUE-MINI_VESC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="CRYSTAL_SMD-RESCUE-MINI_VESC">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">CRYSTAL_SMD-RESCUE-MINI_VESC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="case" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="INDUCTOR-RESCUE-MINI_VESC">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR-RESCUE-MINI_VESC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="LM5001-RESCUE-MINI_VESC">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM5001-RESCUE-MINI_VESC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd" type="input"/>
+        <pin num="2" name="HB" type="input"/>
+        <pin num="3" name="HO" type="input"/>
+        <pin num="4" name="HS" type="input"/>
+        <pin num="7" name="HI" type="input"/>
+        <pin num="8" name="LI" type="input"/>
+        <pin num="9" name="VSS" type="input"/>
+        <pin num="10" name="LO" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="MCP1700-RESCUE-MINI_VESC">
+      <footprints>
+        <fp>SOT89*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP1700-RESCUE-MINI_VESC</field>
+        <field name="Footprint">TO_SOT_Packages_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="RSENS-RESCUE-MINI_VESC">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RSENS-RESCUE-MINI_VESC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="MINI VESC-rescue" part="STM32F40X_LQFP64-RESCUE-MINI_VESC">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F40X_LQFP64-RESCUE-MINI_VESC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13_(RTC_AF1)" type="bidirectional"/>
+        <pin num="3" name="PC14-OSC32_IN" type="bidirectional"/>
+        <pin num="4" name="PC15-OSC32_OUT" type="power_in"/>
+        <pin num="5" name="PH0-OSC_IN" type="bidirectional"/>
+        <pin num="6" name="PH1-OSC_OUT" type="bidirectional"/>
+        <pin num="7" name="NRST" type="bidirectional"/>
+        <pin num="8" name="PC0(ADC123_IN10)" type="bidirectional"/>
+        <pin num="9" name="PC1(ADC123_IN11)" type="bidirectional"/>
+        <pin num="10" name="PC2(ADC123_IN12)" type="bidirectional"/>
+        <pin num="11" name="PC3(ADC123_IN13)" type="bidirectional"/>
+        <pin num="12" name="VSSA" type="power_in"/>
+        <pin num="13" name="VDDA" type="power_in"/>
+        <pin num="14" name="PA0(ADC123_IN0/WKUP)" type="bidirectional"/>
+        <pin num="15" name="PA1(ADC123_IN1)" type="bidirectional"/>
+        <pin num="16" name="PA2(ADC123_IN2)" type="bidirectional"/>
+        <pin num="17" name="PA3(ADC123_IN3)" type="bidirectional"/>
+        <pin num="18" name="VSS" type="power_in"/>
+        <pin num="19" name="VDD" type="power_in"/>
+        <pin num="20" name="PA4(ADC12_IN4/DAC1_OUT)" type="bidirectional"/>
+        <pin num="21" name="PA5(ADC12_IN5/DAC2_OUT)" type="bidirectional"/>
+        <pin num="22" name="PA6(ADC12_IN6)" type="bidirectional"/>
+        <pin num="23" name="PA7(ADC12_IN7)" type="bidirectional"/>
+        <pin num="24" name="PC4(ADC12_IN14)" type="bidirectional"/>
+        <pin num="25" name="PC5(ADC12_IN15)" type="bidirectional"/>
+        <pin num="26" name="PB0(ADC12_IN8)" type="bidirectional"/>
+        <pin num="27" name="PB1(ADC12_IN9)" type="bidirectional"/>
+        <pin num="28" name="PB2-BOOT1" type="bidirectional"/>
+        <pin num="29" name="PB10" type="bidirectional"/>
+        <pin num="30" name="PB11" type="bidirectional"/>
+        <pin num="31" name="VCAP1" type="power_out"/>
+        <pin num="32" name="VDD" type="power_in"/>
+        <pin num="33" name="PB12" type="bidirectional"/>
+        <pin num="34" name="PB13(OTG_HS_VBUS)" type="bidirectional"/>
+        <pin num="35" name="PB14" type="bidirectional"/>
+        <pin num="36" name="PB15" type="bidirectional"/>
+        <pin num="37" name="PC6" type="bidirectional"/>
+        <pin num="38" name="PC7" type="bidirectional"/>
+        <pin num="39" name="PC8" type="bidirectional"/>
+        <pin num="40" name="PC9" type="bidirectional"/>
+        <pin num="41" name="PA8" type="bidirectional"/>
+        <pin num="42" name="PA9(OTG_FS_VBUS)" type="bidirectional"/>
+        <pin num="43" name="PA10" type="bidirectional"/>
+        <pin num="44" name="PA11" type="bidirectional"/>
+        <pin num="45" name="PA12" type="bidirectional"/>
+        <pin num="46" name="PA13(JTMS-SWDIO)" type="bidirectional"/>
+        <pin num="47" name="VCAP2" type="power_out"/>
+        <pin num="48" name="VDD" type="power_in"/>
+        <pin num="49" name="PA14(JTCK-SWCLK)" type="bidirectional"/>
+        <pin num="50" name="PA15(JTDI)" type="bidirectional"/>
+        <pin num="51" name="PC10" type="bidirectional"/>
+        <pin num="52" name="PC11" type="bidirectional"/>
+        <pin num="53" name="PC12" type="bidirectional"/>
+        <pin num="54" name="PD2" type="bidirectional"/>
+        <pin num="55" name="PB3(JTDO/TRACESWO)" type="bidirectional"/>
+        <pin num="56" name="PB4(NJTRST)" type="bidirectional"/>
+        <pin num="57" name="PB5" type="bidirectional"/>
+        <pin num="58" name="PB6" type="bidirectional"/>
+        <pin num="59" name="PB7" type="bidirectional"/>
+        <pin num="60" name="BOOT0(VPP)" type="input"/>
+        <pin num="61" name="PB8" type="bidirectional"/>
+        <pin num="62" name="PB9" type="bidirectional"/>
+        <pin num="63" name="VSS" type="power_in"/>
+        <pin num="64" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="MINI VESC-rescue">
+      <uri>/github/workspace/hw/sch_pcb/TFESC01-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C87" pin="1" pintype="passive"/>
+      <node ref="C89" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="P9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="Vdd" pintype="input"/>
+      <node ref="U10" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="Vdd" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="Vdd" pintype="input"/>
+      <node ref="U9" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="2" name="ADC_EXT1">
+      <node ref="P11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="21" pinfunction="PA5(ADC12_IN5/DAC2_OUT)" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="ADC_EXT2">
+      <node ref="P10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="22" pinfunction="PA6(ADC12_IN6)" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="C1">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="PC0(ADC123_IN10)" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="C2">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U7" pin="9" pinfunction="PC1(ADC123_IN11)" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="C3">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U7" pin="10" pinfunction="PC2(ADC123_IN12)" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="EN">
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="8" name="HALL_1">
+      <node ref="P9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U7" pin="37" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="HALL_2">
+      <node ref="P9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U7" pin="38" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="HALL_3">
+      <node ref="P9" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U7" pin="39" pinfunction="PC8" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="HI1">
+      <node ref="U1" pin="7" pinfunction="HI" pintype="input"/>
+      <node ref="U7" pin="41" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="HI2">
+      <node ref="U2" pin="7" pinfunction="HI" pintype="input"/>
+      <node ref="U7" pin="42" pinfunction="PA9(OTG_FS_VBUS)" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="HI3">
+      <node ref="U3" pin="7" pinfunction="HI" pintype="input"/>
+      <node ref="U7" pin="43" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="I1">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="15" name="I2">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="16" name="I3">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="17" name="LED_GREEN">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U7" pin="26" pinfunction="PB0(ADC12_IN8)" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="LED_RED">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U7" pin="27" pinfunction="PB1(ADC12_IN9)" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="LI1">
+      <node ref="U1" pin="8" pinfunction="LI" pintype="input"/>
+      <node ref="U7" pin="34" pinfunction="PB13(OTG_HS_VBUS)" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="LI2">
+      <node ref="U2" pin="8" pinfunction="LI" pintype="input"/>
+      <node ref="U7" pin="35" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="LI3">
+      <node ref="U3" pin="8" pinfunction="LI" pintype="input"/>
+      <node ref="U7" pin="36" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="HB" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="HB" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="HB" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="U7" pin="31" pinfunction="VCAP1" pintype="power_out"/>
+    </net>
+    <net code="26" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="U7" pin="47" pinfunction="VCAP2" pintype="power_out"/>
+    </net>
+    <net code="27" name="Net-(C20-Pad2)">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="NRST" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="Lx" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(C23-Pad2)">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="BST" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(C30-Pad1)">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="PH0-OSC_IN" pintype="bidirectional"/>
+      <node ref="X1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(C31-Pad1)">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="PH1-OSC_OUT" pintype="bidirectional"/>
+      <node ref="X1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C77-Pad2)">
+      <node ref="C77" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U7" pin="17" pinfunction="PA3(ADC123_IN3)" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(P1-Pad1)">
+      <node ref="P1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="3" pintype="output"/>
+      <node ref="U4" pin="1" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(P2-Pad1)">
+      <node ref="P2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="3" pintype="output"/>
+      <node ref="U5" pin="1" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(P3-Pad1)">
+      <node ref="P3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R3" pin="3" pintype="output"/>
+      <node ref="U6" pin="1" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(P10-Pad4)">
+      <node ref="P10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(P10-Pad5)">
+      <node ref="P10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="HO" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="LO" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="HO" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="LO" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="HO" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="LO" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="53" name="RX">
+      <node ref="P11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U7" pin="30" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="SENS_1">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U7" pin="14" pinfunction="PA0(ADC123_IN0/WKUP)" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="SENS_2">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U7" pin="15" pinfunction="PA1(ADC123_IN1)" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="SENS_3">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U7" pin="16" pinfunction="PA2(ADC123_IN2)" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="SENS_SUPPLY">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U7" pin="11" pinfunction="PC3(ADC123_IN13)" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="SERVO">
+      <node ref="C76" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U7" pin="58" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="SH1">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="P4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="4" pintype="output"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="HS" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="60" name="SH2">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="P5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R2" pin="4" pintype="output"/>
+      <node ref="U2" pin="4" pinfunction="HS" pintype="input"/>
+      <node ref="U5" pin="8" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="61" name="SH3">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="P6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R3" pin="4" pintype="output"/>
+      <node ref="U3" pin="4" pinfunction="HS" pintype="input"/>
+      <node ref="U6" pin="8" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="62" name="SWCLK">
+      <node ref="P10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U7" pin="49" pinfunction="PA14(JTCK-SWCLK)" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="SWDIO">
+      <node ref="P10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U7" pin="46" pinfunction="PA13(JTMS-SWDIO)" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="TEMP_MOTOR">
+      <node ref="C78" pin="2" pintype="passive"/>
+      <node ref="P9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="U7" pin="24" pinfunction="PC4(ADC12_IN14)" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="TX">
+      <node ref="P11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U7" pin="29" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="USB-DM">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U7" pin="44" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="USB-DP">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U7" pin="45" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="VAA">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C86" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="C90" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U4" pin="6" pinfunction="VS" pintype="power_in"/>
+      <node ref="U4" pin="7" pinfunction="REF1" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="VS" pintype="power_in"/>
+      <node ref="U5" pin="7" pinfunction="REF1" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="VS" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="REF1" pintype="input"/>
+      <node ref="U7" pin="13" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="69" name="VCC">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C88" pin="1" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U7" pin="19" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="32" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="64" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U9" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="70" name="VDD">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="C49" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="C51" pin="1" pintype="passive"/>
+      <node ref="C52" pin="1" pintype="passive"/>
+      <node ref="C53" pin="1" pintype="passive"/>
+      <node ref="C54" pin="1" pintype="passive"/>
+      <node ref="C55" pin="1" pintype="passive"/>
+      <node ref="C56" pin="1" pintype="passive"/>
+      <node ref="C57" pin="1" pintype="passive"/>
+      <node ref="C58" pin="1" pintype="passive"/>
+      <node ref="C59" pin="1" pintype="passive"/>
+      <node ref="C60" pin="1" pintype="passive"/>
+      <node ref="C61" pin="1" pintype="passive"/>
+      <node ref="C62" pin="1" pintype="passive"/>
+      <node ref="C63" pin="1" pintype="passive"/>
+      <node ref="C64" pin="1" pintype="passive"/>
+      <node ref="C65" pin="1" pintype="passive"/>
+      <node ref="C66" pin="1" pintype="passive"/>
+      <node ref="C67" pin="1" pintype="passive"/>
+      <node ref="C68" pin="1" pintype="passive"/>
+      <node ref="C69" pin="1" pintype="passive"/>
+      <node ref="C70" pin="1" pintype="passive"/>
+      <node ref="C71" pin="1" pintype="passive"/>
+      <node ref="C72" pin="1" pintype="passive"/>
+      <node ref="C73" pin="1" pintype="passive"/>
+      <node ref="C74" pin="1" pintype="passive"/>
+      <node ref="C75" pin="1" pintype="passive"/>
+      <node ref="C79" pin="1" pintype="passive"/>
+      <node ref="C80" pin="1" pintype="passive"/>
+      <node ref="C81" pin="1" pintype="passive"/>
+      <node ref="C82" pin="1" pintype="passive"/>
+      <node ref="C83" pin="1" pintype="passive"/>
+      <node ref="C84" pin="1" pintype="passive"/>
+      <node ref="C85" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="71" name="VSS">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C49" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="C51" pin="2" pintype="passive"/>
+      <node ref="C52" pin="2" pintype="passive"/>
+      <node ref="C53" pin="2" pintype="passive"/>
+      <node ref="C54" pin="2" pintype="passive"/>
+      <node ref="C55" pin="2" pintype="passive"/>
+      <node ref="C56" pin="2" pintype="passive"/>
+      <node ref="C57" pin="2" pintype="passive"/>
+      <node ref="C58" pin="2" pintype="passive"/>
+      <node ref="C59" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C60" pin="2" pintype="passive"/>
+      <node ref="C61" pin="2" pintype="passive"/>
+      <node ref="C62" pin="2" pintype="passive"/>
+      <node ref="C63" pin="2" pintype="passive"/>
+      <node ref="C64" pin="2" pintype="passive"/>
+      <node ref="C65" pin="2" pintype="passive"/>
+      <node ref="C66" pin="2" pintype="passive"/>
+      <node ref="C67" pin="2" pintype="passive"/>
+      <node ref="C68" pin="2" pintype="passive"/>
+      <node ref="C69" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C70" pin="2" pintype="passive"/>
+      <node ref="C71" pin="2" pintype="passive"/>
+      <node ref="C72" pin="2" pintype="passive"/>
+      <node ref="C73" pin="2" pintype="passive"/>
+      <node ref="C74" pin="2" pintype="passive"/>
+      <node ref="C75" pin="2" pintype="passive"/>
+      <node ref="C76" pin="1" pintype="passive"/>
+      <node ref="C77" pin="1" pintype="passive"/>
+      <node ref="C78" pin="1" pintype="passive"/>
+      <node ref="C79" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C80" pin="2" pintype="passive"/>
+      <node ref="C81" pin="2" pintype="passive"/>
+      <node ref="C82" pin="2" pintype="passive"/>
+      <node ref="C83" pin="2" pintype="passive"/>
+      <node ref="C84" pin="2" pintype="passive"/>
+      <node ref="C85" pin="2" pintype="passive"/>
+      <node ref="C86" pin="2" pintype="passive"/>
+      <node ref="C87" pin="2" pintype="passive"/>
+      <node ref="C88" pin="2" pintype="passive"/>
+      <node ref="C89" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="C90" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="P10" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="P11" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="P9" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="VSS" pintype="input"/>
+      <node ref="U10" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="VSS" pintype="input"/>
+      <node ref="U3" pin="9" pinfunction="VSS" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="REF2" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="REF2" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="REF2" pintype="input"/>
+      <node ref="U7" pin="12" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U7" pin="18" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U7" pin="60" pinfunction="BOOT0(VPP)" pintype="input"/>
+      <node ref="U7" pin="63" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U9" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="X1" pin="3" pinfunction="case" pintype="passive"/>
+    </net>
+    <net code="72" name="servoi">
+      <node ref="P11" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="73" name="unconnected-(U4-Pad4)">
+      <node ref="U4" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U5-Pad4)">
+      <node ref="U5" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U6-Pad4)">
+      <node ref="U6" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U7-Pad2)">
+      <node ref="U7" pin="2" pinfunction="PC13_(RTC_AF1)" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U7-Pad3)">
+      <node ref="U7" pin="3" pinfunction="PC14-OSC32_IN" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U7-Pad4)">
+      <node ref="U7" pin="4" pinfunction="PC15-OSC32_OUT" pintype="power_in+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U7-Pad20)">
+      <node ref="U7" pin="20" pinfunction="PA4(ADC12_IN4/DAC1_OUT)" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U7-Pad23)">
+      <node ref="U7" pin="23" pinfunction="PA7(ADC12_IN7)" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U7-Pad25)">
+      <node ref="U7" pin="25" pinfunction="PC5(ADC12_IN15)" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U7-Pad28)">
+      <node ref="U7" pin="28" pinfunction="PB2-BOOT1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U7-Pad33)">
+      <node ref="U7" pin="33" pinfunction="PB12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U7-Pad40)">
+      <node ref="U7" pin="40" pinfunction="PC9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U7-Pad50)">
+      <node ref="U7" pin="50" pinfunction="PA15(JTDI)" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U7-Pad51)">
+      <node ref="U7" pin="51" pinfunction="PC10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U7-Pad52)">
+      <node ref="U7" pin="52" pinfunction="PC11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U7-Pad53)">
+      <node ref="U7" pin="53" pinfunction="PC12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U7-Pad54)">
+      <node ref="U7" pin="54" pinfunction="PD2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U7-Pad55)">
+      <node ref="U7" pin="55" pinfunction="PB3(JTDO/TRACESWO)" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U7-Pad56)">
+      <node ref="U7" pin="56" pinfunction="PB4(NJTRST)" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U7-Pad57)">
+      <node ref="U7" pin="57" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U7-Pad59)">
+      <node ref="U7" pin="59" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U7-Pad61)">
+      <node ref="U7" pin="61" pinfunction="PB8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U7-Pad62)">
+      <node ref="U7" pin="62" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
