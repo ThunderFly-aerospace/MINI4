@@ -425,6 +425,10 @@
     [
       "3a357e26-f2f9-4433-9717-33d0659a3da8",
       "Power stage"
+    ],
+    [
+      "edf8a027-f1c7-421f-a8c8-a2cd2dad408e",
+      "Interfaces"
     ]
   ],
   "text_variables": {}
